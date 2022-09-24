@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArLoTeTxU
 - 👀 I’m interested in ... coding.
-- 🌱 I’m currently learning ... python.
+- 🌱 I’m currently learning ... C in 42Urduliz School.
 - 💞️ I’m looking to collaborate on ... learning / teaching...
 - 📫 How to reach me ...
 
