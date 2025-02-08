@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArLoTeTxU
 - 👀 I’m interested in ... coding.
-- 🌱 I’m currently learning ... C language at 42Urduliz School.
+- 🌱 I’m currently learning ... Python by myself and some other stuff ;-).
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ArLoTeTxU&data=followers,repositories,stars,commits&theme=nautilus)
 
