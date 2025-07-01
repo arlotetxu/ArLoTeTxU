@@ -4,18 +4,6 @@
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ArLoTeTxU&data=followers,repositories,stars,commits&theme=nautilus)
 
-### 42 School Projects
-<div align="center">
-
-<a href="https://github.com/arlotetxu/LibFt">![42 Badge](https://github.com/arlotetxu/42_Badges/blob/main/libft_bonus.webp)</a>
-<a href="https://github.com/arlotetxu/ft_printf">![42 Badge](https://github.com/arlotetxu/42_Badges/blob/main/ft_printf.webp)</a>
-<a href="https://github.com/arlotetxu/Get_Next_Line">![42 Badge](https://github.com/arlotetxu/42_Badges/blob/main/get_next_line_bonus.webp)</a>
-<a href="https://github.com/arlotetxu/Born2beRoot">![42 Badge](https://github.com/arlotetxu/42_Badges/blob/main/born2beroot_bonus.webp)</a>
-<a href="https://github.com/arlotetxu/Push_Swap">![42 Badge](https://github.com/arlotetxu/42_Badges/blob/main/push_swap.webp)</a>
-<a href="https://github.com/arlotetxu/So_Long">![42 Badge](https://github.com/arlotetxu/42_Badges/blob/main/so_long.webp)</a>
-<a href="https://github.com/arlotetxu/Pipex">![42 Badge](https://github.com/arlotetxu/42_Badges/blob/main/pipex.webp)</a>
-
-</div>
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=c,python,bash,powershell,visualbasic,markdown&software=linux,windows&theme=nautilus&includeNames=true)
 
