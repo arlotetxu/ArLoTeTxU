@@ -1,6 +1,35 @@
-- 👋 Hi, I’m @ArLoTeTxU
-- 👀 I’m interested in ... coding.
-- 🌱 I’m currently learning ... Python by myself and some other stuff ;-).
+# Hello! 👋 I’m @ArLoTeTxU
+
+I’m a passionate programming learner preparing to embark on a new journey at **42 School (Urduliz)** to deepen my software development skills.
+
+---
+
+### About Me
+
+- 👀 Interested in many tech fields, with a focus on programming.
+- 🌱 Currently self-learning Python and exploring other languages and technologies.
+- 💡 I enjoy sharing my progress, projects, and learnings here on GitHub.
+
+---
+
+### What You’ll Find Here
+
+In this repository, I share projects, exercises, and resources related to:
+
+- Programming in C and Python
+- Algorithms and data structures
+- Scripting and automation
+- Personal projects and challenges from 42 School
+
+---
+
+### Let’s Connect!
+
+Feel free to reach out if you want to share knowledge or collaborate.
+
+---
+
+Thanks for stopping by! 😊
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ArLoTeTxU&data=followers,repositories,stars,commits&theme=nautilus)
 
