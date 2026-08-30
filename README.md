@@ -1,6 +1,6 @@
 # Hello! 👋 I’m Jose Manuel Florido (@ArLoTeTxU)
 
-I’m a passionate programming learner preparing to embark on a new journey at **42 School (Urduliz)** to deepen my software development skills.
+I’m a passionate programming learner at **42 School (Urduliz)** to deepen my software development skills.
 
 ---
 
