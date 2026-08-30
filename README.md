@@ -1,4 +1,4 @@
-# Hello! 👋 I’m @ArLoTeTxU
+# Hello! 👋 I’m Jose Manuel Florido (@ArLoTeTxU)
 
 I’m a passionate programming learner preparing to embark on a new journey at **42 School (Urduliz)** to deepen my software development skills.
 
@@ -7,15 +7,14 @@ I’m a passionate programming learner preparing to embark on a new journey at *
 ### About Me
 
 - 👀 Interested in many tech fields, with a focus on programming.
-- 🌱 Currently self-learning Python and exploring other languages and technologies.
-- 😁 Waiting to know if I have been selected as student at 42 Urduliz programming campus.
+- 😁 Currently I'm a student at 42 Urduliz programming campus.
 - 💡 I enjoy sharing my progress, projects, and learnings here on GitHub.
 
 ---
 
 ### What You’ll Find Here
 
-In this repository, I share projects, exercises, and resources related to:
+In this repositories, I share projects, exercises, and resources related to:
 
 - Programming in C and Python
 - Algorithms and data structures
