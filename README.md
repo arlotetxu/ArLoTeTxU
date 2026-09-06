@@ -29,22 +29,22 @@ In this repositories, I share projects, exercises, and resources related to:
 
 | Project  | Language  | Status  | Mark  | Notes  |
 |----------|-----------|---------|-------|--------|
-| [Libft](https://github.com/arlotetxu/libft.git)   | 𝘾         | ✅ Done  | 125  | Develop a functions library |
-| [ft_printf](https://github.com/arlotetxu/ft_printf.git) | 𝘾        | ✅ Done  | 100  | Code the C std function "printf" |
+| [Libft](https://github.com/arlotetxu/libft.git)   | 𝘾         | ✅ Done  | 125  | Develop a function library |
+| [ft_printf](https://github.com/arlotetxu/ft_printf.git) | 𝘾        | ✅ Done  | 100  | Implement the C standard function "printf" |
 | [get_next_line](https://github.com/arlotetxu/get_next_line.git) | 𝘾    | ✅ Done  | 125  | Create a program to read content line by line |
 | [push_swap](https://github.com/arlotetxu/push_swap.git) | 𝘾        | ✅ Done  | 100  | Sorting data on a stack with a limited set of instructions and using the smallest number of moves |
 | Exam Rank 2 | 𝘾      | ✅ Done  | 100  |        |
-| [Born2BeRoot](https://github.com/arlotetxu/born2beroot.git) | Server  | ✅ Done | 125  | A Debian Server virtualization |
-| [Python Piscine](https://github.com/arlotetxu/python_piscine.git) | 🐍 Python | ✅ Done | 100 | 11 modules to introduce python language focused on specific Python programming concepts |
-| [A-Maze-Ing](https://github.com/arlotetxu/a_maze_ing.git) | 🐍 Python | ✅ Done | 125  | Create a program that generates a fully usable maze and displays it |
+| [Born2BeRoot](https://github.com/arlotetxu/born2beroot.git) | Server  | ✅ Done | 125  | Virtualization of a Debian server |
+| [Python Piscine](https://github.com/arlotetxu/python_piscine.git) | 🐍 Python | ✅ Done | 100 | 11 modules introducing the Python language, focused on specific Python programming concepts |
+| [A-Maze-Ing](https://github.com/arlotetxu/a_maze_ing.git) | 🐍 Python | ✅ Done | 125  | reate a program that generates and displays a fully usable maze |
 | Exam Rank 3 | 🐍 Python | ✅ Done | 100 |  |
-| [Fly-In](https://github.com/arlotetxu/fly_in.git)    | 🐍 Python | ✅ Done | 100 | Graph theory and pathfinding algorithm to move a set of drones |
+| [Fly-In](https://github.com/arlotetxu/fly_in.git)    | 🐍 Python | ✅ Done | 100 | Graph theory and pathfinding algorithms to move a set of drones |
 | [Call Me Maybe](https://github.com/arlotetxu/call_me_maybe.git) | 🐍 Python | ✅ Done | 100 | Function calling in Large Language Models using natural language |
 | [Codexion](https://github.com/arlotetxu/codexion.git)  | 𝘾        | ✅ Done | 100 | Concurrent programming, based on dinner philosophers problem |
 | Exam Rank 4 | 🐍 Python | ✅ Done | 100 |  |
-| [Net Practice](https://github.com/arlotetxu/net_practice.git) | subnetting | ✅ Done | 100 | Networking project featuring 10 progressive levels that teach essential computer networking fundamentals |
+| [Net Practice](https://github.com/arlotetxu/net_practice.git) | subnetting | ✅ Done | 100 | Networking project with 10 levels teaching essential networking fundamentals |
 | [Pac-Man](https://github.com/arlotetxu/pacman.git)    |  🐍 Python | ✅ Done | 125 | Recreate the famous arcade game Pac-Man |
-| [Rag Against the Machine](https://github.com/arlotetxu/rag_against_the_machine.git) | 🐍 Python | 🛠 In progress |  | Build a Retrieval-Augmented Generation system that answers questions about codebases |
+| [Rag Against the Machine](https://github.com/arlotetxu/rag_against_the_machine.git) | 🐍 Python | 🛠 In progress |  | Build a retrieval-augmented generation system that answers questions about codebases |
 | Exam Rank 5 |  | ⏳ Pending |  |  |
 | Agent Smith |  | ⏳ Pending |  |  |
 | The Answer Protocol |   | ⏳ Pending |  |  |
