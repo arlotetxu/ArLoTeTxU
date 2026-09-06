@@ -1,7 +1,6 @@
 # Hello! 👋 I’m Jose Manuel Florido (@ArLoTeTxU)
 
-I’m a passionate programming learner at **42 School (Urduliz)** to deepen my software development skills.
-
+I’m a passionate programming learner at 42 Urduliz, deepening my software development skills in C and Python. I bring 15+ years of experience in the industrial logistics sector, focused on digitizing operational processes and developing internal tools to improve efficiency. I have a strong background in leading continuous improvement initiatives, task automation, and supporting ERP implementation and evolution projects, with a proven ability to combine hands‑on programming with a solid understanding of business and operational workflows.
 ---
 
 ### About Me
