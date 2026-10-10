@@ -44,11 +44,11 @@ In this repositories, I share projects, exercises, and resources related to:
 | Exam Rank 4 | 🐍 Python | ✅ Done | 100 |  |
 | [Net Practice](https://github.com/arlotetxu/net_practice.git) | subnetting | ✅ Done | 100 | Networking project with 10 levels teaching essential networking fundamentals |
 | [Pac-Man](https://github.com/arlotetxu/pacman.git)    |  🐍 Python | ✅ Done | 125 | Recreate the famous arcade game Pac-Man |
-| [Rag Against the Machine](https://github.com/arlotetxu/rag_against_the_machine.git) | 🐍 Python | 🛠 In progress |  | Build a retrieval-augmented generation system that answers questions about codebases |
+| [Rag Against the Machine](https://github.com/arlotetxu/rag_against_the_machine.git) | 🐍 Python | ✅ Done | 120 | Build a retrieval-augmented generation system that answers questions about codebases |
 | Exam Rank 5 |  | ⏳ Pending |  |  |
 | Agent Smith |  | ⏳ Pending |  |  |
 | The Answer Protocol |   | ⏳ Pending |  |  |
-| Inception |   | ⏳ Pending |  |  |
+| Inception |   | 🛠 In progress |  |  |
 | Exam Rank 6 |   | ⏳ Pending |  |  |
 | ft_trascendence |   | ⏳ Pending |  |  |
 | ft_resume |   | ⏳ Pending |  |  |
